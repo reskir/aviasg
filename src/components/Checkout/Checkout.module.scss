@@ -1,0 +1,15 @@
+.summary {
+    display: grid;
+    grid-row-gap: 32px;
+    margin-bottom: 24px;
+}
+
+.element {
+    display: grid;
+    grid-row-gap: 12px;
+}
+
+.item {
+    display: grid;
+    grid-template-columns: 0.3fr 0.7fr;
+}

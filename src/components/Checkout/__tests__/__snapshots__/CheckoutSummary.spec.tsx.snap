@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders checkout summary correctly 1`] = `
+<div
+  className="summary"
+>
+  <div
+    className="element"
+  >
+    <h2>
+      Products
+    </h2>
+    <div
+      className="item"
+    >
+      <div>
+        Product 1
+         
+      </div>
+      <div>
+        <strong>
+          10.49
+        </strong>
+         
+        EUR
+      </div>
+    </div>
+    <div
+      className="item"
+    >
+      <div>
+        Product 2
+         
+      </div>
+      <div>
+        <strong>
+          11.19
+        </strong>
+         
+        EUR
+      </div>
+    </div>
+    <div
+      className="item"
+    >
+      <div>
+        Product 3
+         
+      </div>
+      <div>
+        <strong>
+          13.69
+        </strong>
+         
+        EUR
+      </div>
+    </div>
+    <div
+      className="item"
+    >
+      <div>
+        Product 4
+         
+      </div>
+      <div>
+        <strong>
+          17.29
+        </strong>
+         
+        EUR
+      </div>
+    </div>
+  </div>
+  <div
+    className="element"
+  >
+    <h2>
+      Contacts
+    </h2>
+    <div
+      className="item"
+    >
+      <div>
+        Name:
+      </div>
+      <div>
+        Test
+         
+        Test
+      </div>
+    </div>
+  </div>
+  <div
+    className="element"
+  >
+    <h2>
+      Price
+    </h2>
+    <div
+      className="item"
+    >
+      <div>
+        Product(s):
+      </div>
+      <div>
+        <strong>
+          20.34
+        </strong>
+         EUR
+      </div>
+    </div>
+    <div
+      className="item"
+    >
+      <div>
+        Taxes:
+      </div>
+      <div>
+        <strong>
+          10
+        </strong>
+         EUR
+      </div>
+    </div>
+    <div
+      className="item"
+    >
+      <div>
+        Total:
+      </div>
+      <div>
+        <strong>
+          30.34
+        </strong>
+         EUR
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,17 @@
+.form {
+    display: grid;
+    grid-row-gap: 18px;
+}
+
+.inputElement {
+    display: grid;
+
+    label {
+        margin-bottom: 8px;
+    }
+}
+
+.error {
+    margin-top: 3px;
+    color: lightcoral;
+}

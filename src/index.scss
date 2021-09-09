@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+body {
+    font-family: 'Ubuntu Mono', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+}
+
+.main {
+    padding: 24px;
+    height: 100%;
+    width: 500px;
+}
+
+table {
+    margin: 12px 0;
+}
+
+td,
+th {
+    padding: 12px;
+    text-align: left;
+}
+
+input,
+button {
+    padding: 12px;
+}
+
+button {
+    width: 100%;
+}

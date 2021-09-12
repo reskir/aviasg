@@ -113,7 +113,6 @@ export const serviceApi = createApi({
                         };
                     }
                 );
-                console.log(updatedProducts);
                 return {
                     data: {
                         products: updatedProducts as IUpdatedProduct[],
